@@ -4,8 +4,8 @@ import os
 
 
 project = "Improvvisare con la Chitarra"
-author = ""
-copyright = "2026"
+author = "Fabrizio's Guitar Space"
+copyright = f"2026, {author}"
 release = "0.1"
 
 extensions = ["myst_parser"]
@@ -25,9 +25,14 @@ html_title = project
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 html_theme_options = {
     "globaltoc_expand_depth": 1,
+    "youtube_url": "https://youtube.com/@fabsguitarspace",
+    "discord_url": "https://discord.gg/DjwCcuS7SA",
+    "nav_socials": ["youtube", "discord"],
+    "foot_socials": ["youtube", "discord"],
 }
 
 epub_title = project
+epub_author = author
 epub_language = "it"
 
 # XeLaTeX offre un supporto affidabile per gli accenti italiani nel PDF.
