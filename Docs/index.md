@@ -1,9 +1,6 @@
 # Improvvisare con la Chitarra
 
-```{image} _static/logo.png
-:alt: Improvvisare con la Chitarra
-:align: center
-```
+[![Improvvisare con la Chitarra](_static/logo.png){align=center}](https://youtube.com/@fabsguitarspace){target="_blank" rel="noopener noreferrer"}
 
 Appunti per costruire idee musicali, ascoltare l'armonia e trovare la propria
 voce sulla chitarra.

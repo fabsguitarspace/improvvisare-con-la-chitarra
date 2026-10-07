@@ -9,6 +9,7 @@ copyright = f"2026, {author}"
 release = "0.1"
 
 extensions = ["myst_parser"]
+myst_enable_extensions = ["attrs_inline"]
 source_suffix = {".md": "markdown"}
 root_doc = "index"
 language = "it"
