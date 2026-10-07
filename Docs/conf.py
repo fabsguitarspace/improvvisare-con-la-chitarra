@@ -26,6 +26,7 @@ html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 html_permalinks_icon = "<span>¶</span>"
 html_logo = "_static/logo_256.png"
 html_static_path = ["_static"]
+html_css_files = ["custom.css"]
 html_theme_options = {
     "globaltoc_expand_depth": 1,
     "youtube_url": "https://youtube.com/@fabsguitarspace",
