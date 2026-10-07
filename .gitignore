@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Sphinx e LaTeX
+_build/
+Docs/_build/
+Docs/.doctrees/
+*.aux
+*.fdb_latexmk
+*.fls
+*.idx
+*.ind
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
