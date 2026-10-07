@@ -1,5 +1,11 @@
 # Improvvisare con la Chitarra
 
+```{image} _static/logo.png
+:alt: Logo di Improvvisare con la Chitarra
+:align: center
+:width: 220px
+```
+
 Appunti per costruire idee musicali, ascoltare l'armonia e trovare la propria
 voce sulla chitarra.
 
