@@ -23,6 +23,7 @@ exclude_patterns = [
 html_theme = "shibuya"
 html_title = project
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
+html_permalinks_icon = "<span>¶</span>"
 html_theme_options = {
     "globaltoc_expand_depth": 1,
     "youtube_url": "https://youtube.com/@fabsguitarspace",
