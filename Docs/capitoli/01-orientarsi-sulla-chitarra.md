@@ -23,6 +23,13 @@ Negli schemi useremo le lettere internazionali: C corrisponde a Do, D a Re, E
 a Mi, F a Fa, G a Sol, A a La e B a Si. La sesta corda è la più grave e la
 prima è la più acuta.
 
+```{figure} ../_static/immagini/tastiera-note-riferimenti.png
+:alt: Tastiera della chitarra con le note e i principali punti di riferimento
+:width: 100%
+
+Note sulla tastiera e relazioni tra le corde.
+```
+
 ## Le note nei primi dodici tasti
 
 Ogni tasto fa salire il suono di un **semitono**. Due semitoni formano un
