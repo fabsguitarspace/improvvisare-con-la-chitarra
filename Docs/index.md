@@ -13,7 +13,6 @@ emergono nuove idee.
 :caption: Il percorso
 :maxdepth: 2
 
-prefazione
 introduzione
 capitoli/01-orientarsi-sulla-chitarra
 capitoli/02-ritmo-e-fraseggio
